@@ -14,7 +14,3 @@ Dieses Projekt beschäftigt sich mit der Datenvorbereitung für ein Credit Risk 
 - Python  
 - NumPy  
 
-## Nutzung  
-1. Stelle sicher, dass Python und NumPy installiert sind.  
-2. Führe das Skript aus, das die Daten bereinigt und exportiert.  
-3. Die bereinigte Datei wird im Projektordner als [Dateiname] gespeichert.  
